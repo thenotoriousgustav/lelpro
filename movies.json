@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "Sweet Charity",
+    "genre": "Comedy|Drama|Musical|Romance"
+  },
+  { "id": 2, "title": "Frankenstein", "genre": "Drama|Horror|Sci-Fi" },
+  { "id": 3, "title": "Country Bears, The", "genre": "Children|Comedy" },
+  { "id": 4, "title": "Finding Neverland", "genre": "Drama" },
+  { "id": 5, "title": "Private Property (Nue propriété)", "genre": "Drama" },
+  { "id": 6, "title": "Dark Half, The", "genre": "Horror|Mystery" },
+  { "id": 7, "title": "Night People", "genre": "Adventure" }
+]
